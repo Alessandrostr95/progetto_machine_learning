@@ -2,4 +2,6 @@
 
 dataset/
 
+**/*.csv
+
 **/.DS_Store
